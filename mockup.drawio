@@ -1,0 +1,40 @@
+<mxfile host="8880e7be-5c54-45b9-be0d-4005649a96f1" modified="2020-08-11T01:43:49.367Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.47.3 Chrome/78.0.3904.130 Electron/7.3.2 Safari/537.36" etag="5tfJmEvMp6V6t5CSv-ae" version="13.1.3">
+    <diagram id="6hGFLwfOUW9BJ-s0fimq" name="Page-1">
+        <mxGraphModel dx="749" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Pic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="50" width="180" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Name&lt;br&gt;&lt;br&gt;Degree&lt;br&gt;&lt;br&gt;Occupations&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="50" width="530" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="App" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="300" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="App" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="340" y="300" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="App" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="300" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <UserObject label="&lt;font color=&quot;#ffff99&quot;&gt;Github&lt;/font&gt;" link="https://www.draw.io" id="11">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="1">
+                        <mxGeometry x="170" y="440" width="60" height="40" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="&lt;font color=&quot;#ffff99&quot;&gt;LinkedIn&lt;/font&gt;" link="https://www.draw.io" id="15">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="1">
+                        <mxGeometry x="350" y="440" width="60" height="40" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="&lt;font color=&quot;#ffff99&quot;&gt;Link&lt;/font&gt;" link="https://www.draw.io" id="16">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="1">
+                        <mxGeometry x="530" y="440" width="60" height="40" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
